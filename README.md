@@ -5,11 +5,14 @@ This is a Dungeon Crawler game, with a decision based combat system build on c++
 HOW TO USE: 
 To choose a character: Press 1-2-3-4 (Depending on which character you wanna use)
 To Attack: Press 1 for Elemental Attack
+
 To Attack: Press 2 for basic attack 
+
 To Defend: Press 3 for block and heal 5 health. 
 
 VERSION HISTORY:
 -Version 1.00
+
 Fix bug were it would not block the damage intended. 
 
 
