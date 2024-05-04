@@ -1,0 +1,5 @@
+Stats: 
+Jugador:                     Villanos: 
+Ataque elemental: 21        Ataque elemental :20
+Ataque basico: 18        Ataque basico:10
+Vida curada: 5
